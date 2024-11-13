@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\lab 10.1 A\\Lab 10.1A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3D08F-B752-4556-9C91-EC8927168BA3}|UnitTest1\\UnitTest1.vcxproj|D:\\programming\\lab 10.1 A\\Lab 10.1A\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DEB3D08F-B752-4556-9C91-EC8927168BA3}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63CF4C8E-2A3E-4BF9-919C-40555C4412F3}|Lab 10.1A.vcxproj|D:\\programming\\lab 10.1 A\\Lab 10.1A\\lab 10.1A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63CF4C8E-2A3E-4BF9-919C-40555C4412F3}|Lab 10.1A.vcxproj|solutionrelative:lab 10.1A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\programming\\lab 10.1 A\\Lab 10.1A\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\programming\\lab 10.1 A\\Lab 10.1A\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T22:16:56.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab 10.1A.cpp",
+              "DocumentMoniker": "D:\\programming\\lab 10.1 A\\Lab 10.1A\\lab 10.1A.cpp",
+              "RelativeDocumentMoniker": "lab 10.1A.cpp",
+              "ToolTip": "D:\\programming\\lab 10.1 A\\Lab 10.1A\\lab 10.1A.cpp",
+              "RelativeToolTip": "lab 10.1A.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAK4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:55:07.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
